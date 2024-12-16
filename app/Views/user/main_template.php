@@ -44,18 +44,18 @@
                                 <span class="hide-menu">Dashboard</span>
                             </a>
                         </li>
-                        <li class="nav-small-cap">
+                        <!-- <li class="nav-small-cap">
                             <iconify-icon icon="solar:menu-dots-linear" class="nav-small-cap-icon fs-6" class="fs-6"></iconify-icon>
                             <span class="hide-menu">Hasil</span>
-                        </li>
-                        <li class="sidebar-item">
+                        </li> -->
+                        <!-- <li class="sidebar-item">
                             <a class="sidebar-link" href="<?php echo base_url(); ?>user/riwayat" aria-expanded="false">
                                 <span>
                                     <iconify-icon icon="material-symbols:readiness-score-rounded" class="fs-6"></iconify-icon>
                                 </span>
                                 <span class="hide-menu">Riwayat</span>
                             </a>
-                        </li>
+                        </li> -->
                     </ul>
 
                 </nav>
