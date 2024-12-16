@@ -1,0 +1,1020 @@
+INFO - 2024-09-21 01:18:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 01:18:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 01:18:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 01:18:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 01:19:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 01:19:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 01:22:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 01:22:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 01:23:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 01:23:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 01:23:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 01:30:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 01:30:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 01:30:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 01:30:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 01:31:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 01:31:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 01:31:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 01:31:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-09-21 01:31:54 --> Error: Call to undefined method CodeIgniter\HTTP\Files\UploadedFile::isImage()
+[Method: POST, Route: admin/upload]
+in APPPATH\Controllers\Admin.php on line 273.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->upload()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Marc Satrio\\Desktop\\psikotest\\psikotest\\public\\index.php')
+INFO - 2024-09-21 01:32:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-09-21 01:32:10 --> Error: Call to undefined method CodeIgniter\HTTP\Files\UploadedFile::isImage()
+[Method: POST, Route: admin/upload]
+in APPPATH\Controllers\Admin.php on line 273.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->upload()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Marc Satrio\\Desktop\\psikotest\\psikotest\\public\\index.php')
+INFO - 2024-09-21 01:32:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 01:33:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-09-21 01:33:15 --> Error: Call to undefined method CodeIgniter\HTTP\Files\UploadedFile::isImage()
+[Method: POST, Route: admin/upload]
+in APPPATH\Controllers\Admin.php on line 273.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->upload()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Marc Satrio\\Desktop\\psikotest\\psikotest\\public\\index.php')
+INFO - 2024-09-21 01:35:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 01:35:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-09-21 01:35:51 --> Error: Call to undefined method CodeIgniter\HTTP\Files\UploadedFile::isImage()
+[Method: POST, Route: admin/upload]
+in APPPATH\Controllers\Admin.php on line 273.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->upload()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Marc Satrio\\Desktop\\psikotest\\psikotest\\public\\index.php')
+INFO - 2024-09-21 01:37:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 01:37:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 01:37:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 01:37:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 01:38:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 01:38:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 01:38:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 01:38:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 01:42:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 01:43:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 01:43:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 01:43:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 01:44:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 01:44:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 01:44:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 01:44:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 01:44:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 01:44:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 01:44:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 01:44:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 01:44:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 01:49:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 01:50:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 01:50:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 01:50:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 01:50:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 01:50:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 01:51:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 01:51:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 01:52:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 01:53:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 01:56:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 01:57:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 01:57:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 01:57:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 02:03:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 02:23:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 02:23:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 02:23:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 02:23:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 02:24:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 02:24:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 02:24:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 02:24:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 02:24:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 02:24:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 02:24:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 02:24:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 02:24:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 02:24:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 02:24:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 02:24:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 02:24:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 02:27:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-09-21 02:27:04 --> TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, array given
+[Method: GET, Route: admin/create_soal]
+in APPPATH\Views\admin\create_soal.php on line 60.
+ 1 APPPATH\Views\admin\create_soal.php(60): htmlspecialchars([...], 3, 'UTF-8')
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\Marc Satrio\\Desktop\\psikotest\\psikotest\\app\\Views\\admin\\create_soal.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('admin/create_soal', [], true)
+ 5 APPPATH\Controllers\Admin.php(220): view('admin/create_soal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->create_soal()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Marc Satrio\\Desktop\\psikotest\\psikotest\\public\\index.php')
+INFO - 2024-09-21 02:27:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 02:27:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 02:27:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 02:29:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 02:29:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 02:29:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 02:29:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 02:30:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 02:30:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 02:30:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 02:30:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 02:30:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 02:30:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 02:30:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 02:30:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 02:30:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 02:30:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 02:31:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 02:31:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 02:32:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 02:32:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 02:32:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 02:32:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 02:34:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 02:34:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 02:49:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 02:49:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 02:50:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 03:00:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 03:01:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 03:02:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 03:03:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-09-21 03:03:16 --> Error connecting to the database: mysqli_sql_exception: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond in C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:187
+Stack trace:
+#0 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(187): mysqli->real_connect('101.255.92.198', 'astagina', 'astagina', 'test', 3306, '', 0)
+#1 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\app\Controllers\User.php(58): CodeIgniter\BaseModel->findAll()
+#7 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\CodeIgniter.php(933): App\Controllers\User->test('6b86b273ff34fce...')
+#8 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#9 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\rewrite.php(44): require_once('C:\\Users\\Marc S...')
+#14 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond in C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\app\Controllers\User.php(58): CodeIgniter\BaseModel->findAll()
+#6 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\CodeIgniter.php(933): App\Controllers\User->test('6b86b273ff34fce...')
+#7 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#8 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\rewrite.php(44): require_once('C:\\Users\\Marc S...')
+#13 {main}
+CRITICAL - 2024-09-21 03:03:16 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[Method: GET, Route: user/test/6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `test`
+WHERE `id_user` = :id_user:', [...], false)
+ 3 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\User.php(58): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->test('6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Marc Satrio\\Desktop\\psikotest\\psikotest\\public\\index.php')
+INFO - 2024-09-21 03:03:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-09-21 03:03:26 --> ErrorException: Undefined array key "id_jawaban"
+[Method: GET, Route: user/test/6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b]
+in APPPATH\Views\user\test.php on line 122.
+ 1 APPPATH\Views\user\test.php(122): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_jawaban"', 'C:\\Users\\Marc Satrio\\Desktop\\psikotest\\psikotest\\app\\Views\\user\\test.php', 122)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\Marc Satrio\\Desktop\\psikotest\\psikotest\\app\\Views\\user\\test.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('user/test', [], true)
+ 5 APPPATH\Controllers\User.php(79): view('user/test', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->test('6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Marc Satrio\\Desktop\\psikotest\\psikotest\\public\\index.php')
+INFO - 2024-09-21 03:05:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-09-21 03:06:02 --> mysqli_sql_exception: Expression #11 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'test.jawaban_soal.id_jawaban_soal' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\app\Controllers\User.php(75): CodeIgniter\BaseModel->findAll()
+#7 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\CodeIgniter.php(933): App\Controllers\User->test('6b86b273ff34fce...')
+#8 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#9 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\rewrite.php(44): require_once('C:\\Users\\Marc S...')
+#14 {main}
+CRITICAL - 2024-09-21 03:06:02 --> CodeIgniter\Database\Exceptions\DatabaseException: Expression #11 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'test.jawaban_soal.id_jawaban_soal' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+[Method: GET, Route: user/test/6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `soal_ujian`
+JOIN `soal` ON `soal_ujian`.`id_soal` = `soal`.`id_soal`
+JOIN `jenis_soal` ON `soal`.`id_jenis_soal` = `jenis_soal`.`id_jenis_soal`
+JOIN `jawaban_soal` ON `soal`.`id_soal` = `jawaban_soal`.`id_soal`
+WHERE `soal_ujian`.`id_test` = :soal_ujian.id_test:
+GROUP BY `soal_ujian`.`id_soal_ujian`, `soal`.`id_soal`, `jenis_soal`.`id_jenis_soal`, `soal_ujian`.`id_test`', [...], false)
+ 2 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\User.php(75): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->test('6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Marc Satrio\\Desktop\\psikotest\\psikotest\\public\\index.php')
+CRITICAL - 2024-09-21 03:06:02 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Expression #11 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'test.jawaban_soal.id_jawaban_soal' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `soal_ujian`
+JOIN `soal` ON `soal_ujian`.`id_soal` = `soal`.`id_soal`
+JOIN `jenis_soal` ON `soal`.`id_jenis_soal` = `jenis_soal`.`id_jenis_soal`
+JOIN `jawaban_soal` ON `soal`.`id_soal` = `jawaban_soal`.`id_soal`
+WHERE `soal_ujian`.`id_test` = \'1\'
+GROUP BY `soal_ujian`.`id_soal_ujian`, `soal`.`id_soal`, `jenis_soal`.`id_jenis_soal`, `soal_ujian`.`id_test`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `soal_ujian`
+JOIN `soal` ON `soal_ujian`.`id_soal` = `soal`.`id_soal`
+JOIN `jenis_soal` ON `soal`.`id_jenis_soal` = `jenis_soal`.`id_jenis_soal`
+JOIN `jawaban_soal` ON `soal`.`id_soal` = `jawaban_soal`.`id_soal`
+WHERE `soal_ujian`.`id_test` = \'1\'
+GROUP BY `soal_ujian`.`id_soal_ujian`, `soal`.`id_soal`, `jenis_soal`.`id_jenis_soal`, `soal_ujian`.`id_test`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `soal_ujian`
+JOIN `soal` ON `soal_ujian`.`id_soal` = `soal`.`id_soal`
+JOIN `jenis_soal` ON `soal`.`id_jenis_soal` = `jenis_soal`.`id_jenis_soal`
+JOIN `jawaban_soal` ON `soal`.`id_soal` = `jawaban_soal`.`id_soal`
+WHERE `soal_ujian`.`id_test` = :soal_ujian.id_test:
+GROUP BY `soal_ujian`.`id_soal_ujian`, `soal`.`id_soal`, `jenis_soal`.`id_jenis_soal`, `soal_ujian`.`id_test`', [...], false)
+ 4 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\User.php(75): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->test('6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b')
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Marc Satrio\\Desktop\\psikotest\\psikotest\\public\\index.php')
+CRITICAL - 2024-09-21 03:06:02 --> [Caused by] mysqli_sql_exception: Expression #11 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'test.jawaban_soal.id_jawaban_soal' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT *
+FROM `soal_ujian`
+JOIN `soal` ON `soal_ujian`.`id_soal` = `soal`.`id_soal`
+JOIN `jenis_soal` ON `soal`.`id_jenis_soal` = `jenis_soal`.`id_jenis_soal`
+JOIN `jawaban_soal` ON `soal`.`id_soal` = `jawaban_soal`.`id_soal`
+WHERE `soal_ujian`.`id_test` = \'1\'
+GROUP BY `soal_ujian`.`id_soal_ujian`, `soal`.`id_soal`, `jenis_soal`.`id_jenis_soal`, `soal_ujian`.`id_test`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `soal_ujian`
+JOIN `soal` ON `soal_ujian`.`id_soal` = `soal`.`id_soal`
+JOIN `jenis_soal` ON `soal`.`id_jenis_soal` = `jenis_soal`.`id_jenis_soal`
+JOIN `jawaban_soal` ON `soal`.`id_soal` = `jawaban_soal`.`id_soal`
+WHERE `soal_ujian`.`id_test` = \'1\'
+GROUP BY `soal_ujian`.`id_soal_ujian`, `soal`.`id_soal`, `jenis_soal`.`id_jenis_soal`, `soal_ujian`.`id_test`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `soal_ujian`
+JOIN `soal` ON `soal_ujian`.`id_soal` = `soal`.`id_soal`
+JOIN `jenis_soal` ON `soal`.`id_jenis_soal` = `jenis_soal`.`id_jenis_soal`
+JOIN `jawaban_soal` ON `soal`.`id_soal` = `jawaban_soal`.`id_soal`
+WHERE `soal_ujian`.`id_test` = \'1\'
+GROUP BY `soal_ujian`.`id_soal_ujian`, `soal`.`id_soal`, `jenis_soal`.`id_jenis_soal`, `soal_ujian`.`id_test`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `soal_ujian`
+JOIN `soal` ON `soal_ujian`.`id_soal` = `soal`.`id_soal`
+JOIN `jenis_soal` ON `soal`.`id_jenis_soal` = `jenis_soal`.`id_jenis_soal`
+JOIN `jawaban_soal` ON `soal`.`id_soal` = `jawaban_soal`.`id_soal`
+WHERE `soal_ujian`.`id_test` = :soal_ujian.id_test:
+GROUP BY `soal_ujian`.`id_soal_ujian`, `soal`.`id_soal`, `jenis_soal`.`id_jenis_soal`, `soal_ujian`.`id_test`', [...], false)
+ 5 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\User.php(75): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->test('6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b')
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Marc Satrio\\Desktop\\psikotest\\psikotest\\public\\index.php')
+INFO - 2024-09-21 03:06:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 03:07:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 03:11:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 03:13:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 03:14:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-09-21 03:14:26 --> ErrorException: Undefined variable $soalUjian
+[Method: GET, Route: user/test/6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b]
+in APPPATH\Views\user\test.php on line 1.
+ 1 APPPATH\Views\user\test.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $soalUjian', 'C:\\Users\\Marc Satrio\\Desktop\\psikotest\\psikotest\\app\\Views\\user\\test.php', 1)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\Marc Satrio\\Desktop\\psikotest\\psikotest\\app\\Views\\user\\test.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('user/test', [], true)
+ 5 APPPATH\Controllers\User.php(84): view('user/test', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->test('6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Marc Satrio\\Desktop\\psikotest\\psikotest\\public\\index.php')
+INFO - 2024-09-21 03:15:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 03:16:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 03:17:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-09-21 03:17:29 --> ErrorException: Undefined variable $soal_ujian
+[Method: GET, Route: user/test/6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b]
+in APPPATH\Views\user\test.php on line 106.
+ 1 APPPATH\Views\user\test.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $soal_ujian', 'C:\\Users\\Marc Satrio\\Desktop\\psikotest\\psikotest\\app\\Views\\user\\test.php', 106)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\Marc Satrio\\Desktop\\psikotest\\psikotest\\app\\Views\\user\\test.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('user/test', [], true)
+ 5 APPPATH\Controllers\User.php(84): view('user/test', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->test('6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Marc Satrio\\Desktop\\psikotest\\psikotest\\public\\index.php')
+INFO - 2024-09-21 03:19:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-09-21 03:19:11 --> ErrorException: Undefined array key "id_jawaban"
+[Method: GET, Route: user/test/6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b]
+in APPPATH\Views\user\test.php on line 122.
+ 1 APPPATH\Views\user\test.php(122): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_jawaban"', 'C:\\Users\\Marc Satrio\\Desktop\\psikotest\\psikotest\\app\\Views\\user\\test.php', 122)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\Marc Satrio\\Desktop\\psikotest\\psikotest\\app\\Views\\user\\test.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('user/test', [], true)
+ 5 APPPATH\Controllers\User.php(84): view('user/test', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->test('6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Marc Satrio\\Desktop\\psikotest\\psikotest\\public\\index.php')
+INFO - 2024-09-21 03:19:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-09-21 03:19:30 --> ErrorException: Undefined array key "id_soal"
+[Method: GET, Route: user/test/6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b]
+in APPPATH\Views\user\test.php on line 122.
+ 1 APPPATH\Views\user\test.php(122): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_soal"', 'C:\\Users\\Marc Satrio\\Desktop\\psikotest\\psikotest\\app\\Views\\user\\test.php', 122)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\Marc Satrio\\Desktop\\psikotest\\psikotest\\app\\Views\\user\\test.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('user/test', [], true)
+ 5 APPPATH\Controllers\User.php(84): view('user/test', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->test('6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Marc Satrio\\Desktop\\psikotest\\psikotest\\public\\index.php')
+INFO - 2024-09-21 03:24:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-09-21 03:25:03 --> ErrorException: Undefined variable $soal_ujian
+[Method: GET, Route: user/test/6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b]
+in APPPATH\Views\user\test.php on line 143.
+ 1 APPPATH\Views\user\test.php(143): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $soal_ujian', 'C:\\Users\\Marc Satrio\\Desktop\\psikotest\\psikotest\\app\\Views\\user\\test.php', 143)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\Marc Satrio\\Desktop\\psikotest\\psikotest\\app\\Views\\user\\test.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('user/test', [], true)
+ 5 APPPATH\Controllers\User.php(84): view('user/test', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->test('6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Marc Satrio\\Desktop\\psikotest\\psikotest\\public\\index.php')
+INFO - 2024-09-21 03:26:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 03:27:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 03:30:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 03:30:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 03:33:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 03:34:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-09-21 03:34:51 --> mysqli_sql_exception: Unknown column 'soal_ujian.jawaban_list' in 'field list' in C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `soal`.`...', 0)
+#1 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `soal`.`...')
+#2 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `soal`.`...')
+#3 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `soal`.`...', Array, false)
+#4 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\app\Controllers\User.php(75): CodeIgniter\BaseModel->findAll()
+#7 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\CodeIgniter.php(933): App\Controllers\User->test('6b86b273ff34fce...')
+#8 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#9 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\rewrite.php(44): require_once('C:\\Users\\Marc S...')
+#14 {main}
+CRITICAL - 2024-09-21 03:34:51 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'soal_ujian.jawaban_list' in 'field list'
+[Method: GET, Route: user/test/6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `soal`.`isi_soal`, `jawaban_soal`.`jawaban_soal`, `soal_ujian`.`jawaban_list`
+FROM `soal_ujian`
+JOIN `soal` ON `soal`.`id_soal` = `soal_ujian`.`id_soal`
+JOIN `jawaban_soal` ON `jawaban_soal`.`id_soal` = `soal`.`id_soal`
+WHERE `soal_ujian`.`id_test` = :soal_ujian.id_test:', [...], false)
+ 2 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\User.php(75): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->test('6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Marc Satrio\\Desktop\\psikotest\\psikotest\\public\\index.php')
+CRITICAL - 2024-09-21 03:34:51 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'soal_ujian.jawaban_list' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `soal`.`isi_soal`, `jawaban_soal`.`jawaban_soal`, `soal_ujian`.`jawaban_list`
+FROM `soal_ujian`
+JOIN `soal` ON `soal`.`id_soal` = `soal_ujian`.`id_soal`
+JOIN `jawaban_soal` ON `jawaban_soal`.`id_soal` = `soal`.`id_soal`
+WHERE `soal_ujian`.`id_test` = \'1\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `soal`.`isi_soal`, `jawaban_soal`.`jawaban_soal`, `soal_ujian`.`jawaban_list`
+FROM `soal_ujian`
+JOIN `soal` ON `soal`.`id_soal` = `soal_ujian`.`id_soal`
+JOIN `jawaban_soal` ON `jawaban_soal`.`id_soal` = `soal`.`id_soal`
+WHERE `soal_ujian`.`id_test` = \'1\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `soal`.`isi_soal`, `jawaban_soal`.`jawaban_soal`, `soal_ujian`.`jawaban_list`
+FROM `soal_ujian`
+JOIN `soal` ON `soal`.`id_soal` = `soal_ujian`.`id_soal`
+JOIN `jawaban_soal` ON `jawaban_soal`.`id_soal` = `soal`.`id_soal`
+WHERE `soal_ujian`.`id_test` = :soal_ujian.id_test:', [...], false)
+ 4 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\User.php(75): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->test('6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b')
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Marc Satrio\\Desktop\\psikotest\\psikotest\\public\\index.php')
+CRITICAL - 2024-09-21 03:34:51 --> [Caused by] mysqli_sql_exception: Unknown column 'soal_ujian.jawaban_list' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `soal`.`isi_soal`, `jawaban_soal`.`jawaban_soal`, `soal_ujian`.`jawaban_list`
+FROM `soal_ujian`
+JOIN `soal` ON `soal`.`id_soal` = `soal_ujian`.`id_soal`
+JOIN `jawaban_soal` ON `jawaban_soal`.`id_soal` = `soal`.`id_soal`
+WHERE `soal_ujian`.`id_test` = \'1\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `soal`.`isi_soal`, `jawaban_soal`.`jawaban_soal`, `soal_ujian`.`jawaban_list`
+FROM `soal_ujian`
+JOIN `soal` ON `soal`.`id_soal` = `soal_ujian`.`id_soal`
+JOIN `jawaban_soal` ON `jawaban_soal`.`id_soal` = `soal`.`id_soal`
+WHERE `soal_ujian`.`id_test` = \'1\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `soal`.`isi_soal`, `jawaban_soal`.`jawaban_soal`, `soal_ujian`.`jawaban_list`
+FROM `soal_ujian`
+JOIN `soal` ON `soal`.`id_soal` = `soal_ujian`.`id_soal`
+JOIN `jawaban_soal` ON `jawaban_soal`.`id_soal` = `soal`.`id_soal`
+WHERE `soal_ujian`.`id_test` = \'1\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `soal`.`isi_soal`, `jawaban_soal`.`jawaban_soal`, `soal_ujian`.`jawaban_list`
+FROM `soal_ujian`
+JOIN `soal` ON `soal`.`id_soal` = `soal_ujian`.`id_soal`
+JOIN `jawaban_soal` ON `jawaban_soal`.`id_soal` = `soal`.`id_soal`
+WHERE `soal_ujian`.`id_test` = :soal_ujian.id_test:', [...], false)
+ 5 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\User.php(75): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->test('6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b')
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Marc Satrio\\Desktop\\psikotest\\psikotest\\public\\index.php')
+INFO - 2024-09-21 03:35:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-09-21 03:35:33 --> mysqli_sql_exception: Unknown column 'soal_ujian.jawaban_list' in 'field list' in C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `soal`.`...', 0)
+#1 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `soal`.`...')
+#2 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `soal`.`...')
+#3 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `soal`.`...', Array, false)
+#4 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\app\Controllers\User.php(75): CodeIgniter\BaseModel->findAll()
+#7 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\CodeIgniter.php(933): App\Controllers\User->test('6b86b273ff34fce...')
+#8 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#9 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\rewrite.php(44): require_once('C:\\Users\\Marc S...')
+#14 {main}
+CRITICAL - 2024-09-21 03:35:33 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'soal_ujian.jawaban_list' in 'field list'
+[Method: GET, Route: user/test/6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `soal`.`isi_soal`, `jawaban_soal`.`jawaban_soal`, `soal_ujian`.`jawaban_list`
+FROM `soal_ujian`
+JOIN `soal` ON `soal`.`id_soal` = `soal_ujian`.`id_soal`
+JOIN `jawaban_soal` ON `jawaban_soal`.`id_soal` = `soal`.`id_soal`
+WHERE `soal_ujian`.`id_test` = :soal_ujian.id_test:', [...], false)
+ 2 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\User.php(75): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->test('6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Marc Satrio\\Desktop\\psikotest\\psikotest\\public\\index.php')
+CRITICAL - 2024-09-21 03:35:33 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'soal_ujian.jawaban_list' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `soal`.`isi_soal`, `jawaban_soal`.`jawaban_soal`, `soal_ujian`.`jawaban_list`
+FROM `soal_ujian`
+JOIN `soal` ON `soal`.`id_soal` = `soal_ujian`.`id_soal`
+JOIN `jawaban_soal` ON `jawaban_soal`.`id_soal` = `soal`.`id_soal`
+WHERE `soal_ujian`.`id_test` = \'1\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `soal`.`isi_soal`, `jawaban_soal`.`jawaban_soal`, `soal_ujian`.`jawaban_list`
+FROM `soal_ujian`
+JOIN `soal` ON `soal`.`id_soal` = `soal_ujian`.`id_soal`
+JOIN `jawaban_soal` ON `jawaban_soal`.`id_soal` = `soal`.`id_soal`
+WHERE `soal_ujian`.`id_test` = \'1\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `soal`.`isi_soal`, `jawaban_soal`.`jawaban_soal`, `soal_ujian`.`jawaban_list`
+FROM `soal_ujian`
+JOIN `soal` ON `soal`.`id_soal` = `soal_ujian`.`id_soal`
+JOIN `jawaban_soal` ON `jawaban_soal`.`id_soal` = `soal`.`id_soal`
+WHERE `soal_ujian`.`id_test` = :soal_ujian.id_test:', [...], false)
+ 4 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\User.php(75): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->test('6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b')
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Marc Satrio\\Desktop\\psikotest\\psikotest\\public\\index.php')
+CRITICAL - 2024-09-21 03:35:33 --> [Caused by] mysqli_sql_exception: Unknown column 'soal_ujian.jawaban_list' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `soal`.`isi_soal`, `jawaban_soal`.`jawaban_soal`, `soal_ujian`.`jawaban_list`
+FROM `soal_ujian`
+JOIN `soal` ON `soal`.`id_soal` = `soal_ujian`.`id_soal`
+JOIN `jawaban_soal` ON `jawaban_soal`.`id_soal` = `soal`.`id_soal`
+WHERE `soal_ujian`.`id_test` = \'1\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `soal`.`isi_soal`, `jawaban_soal`.`jawaban_soal`, `soal_ujian`.`jawaban_list`
+FROM `soal_ujian`
+JOIN `soal` ON `soal`.`id_soal` = `soal_ujian`.`id_soal`
+JOIN `jawaban_soal` ON `jawaban_soal`.`id_soal` = `soal`.`id_soal`
+WHERE `soal_ujian`.`id_test` = \'1\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `soal`.`isi_soal`, `jawaban_soal`.`jawaban_soal`, `soal_ujian`.`jawaban_list`
+FROM `soal_ujian`
+JOIN `soal` ON `soal`.`id_soal` = `soal_ujian`.`id_soal`
+JOIN `jawaban_soal` ON `jawaban_soal`.`id_soal` = `soal`.`id_soal`
+WHERE `soal_ujian`.`id_test` = \'1\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `soal`.`isi_soal`, `jawaban_soal`.`jawaban_soal`, `soal_ujian`.`jawaban_list`
+FROM `soal_ujian`
+JOIN `soal` ON `soal`.`id_soal` = `soal_ujian`.`id_soal`
+JOIN `jawaban_soal` ON `jawaban_soal`.`id_soal` = `soal`.`id_soal`
+WHERE `soal_ujian`.`id_test` = :soal_ujian.id_test:', [...], false)
+ 5 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\User.php(75): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->test('6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b')
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Marc Satrio\\Desktop\\psikotest\\psikotest\\public\\index.php')
+INFO - 2024-09-21 03:44:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-09-21 03:44:59 --> mysqli_sql_exception: Unknown column 'soal_ujian.jawaban_list' in 'field list' in C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `soal`.`...', 0)
+#1 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `soal`.`...')
+#2 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `soal`.`...')
+#3 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `soal`.`...', Array, false)
+#4 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\app\Controllers\User.php(75): CodeIgniter\BaseModel->findAll()
+#7 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\CodeIgniter.php(933): App\Controllers\User->test('6b86b273ff34fce...')
+#8 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#9 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\rewrite.php(44): require_once('C:\\Users\\Marc S...')
+#14 {main}
+CRITICAL - 2024-09-21 03:44:59 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'soal_ujian.jawaban_list' in 'field list'
+[Method: GET, Route: user/test/6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `soal`.`isi_soal`, `jawaban_soal`.`jawaban_soal`, `soal_ujian`.`jawaban_list`
+FROM `soal_ujian`
+JOIN `soal` ON `soal`.`id_soal` = `soal_ujian`.`id_soal`
+JOIN `jawaban_soal` ON `jawaban_soal`.`id_soal` = `soal`.`id_soal`
+WHERE `soal_ujian`.`id_test` = :soal_ujian.id_test:', [...], false)
+ 2 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\User.php(75): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->test('6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Marc Satrio\\Desktop\\psikotest\\psikotest\\public\\index.php')
+CRITICAL - 2024-09-21 03:44:59 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'soal_ujian.jawaban_list' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `soal`.`isi_soal`, `jawaban_soal`.`jawaban_soal`, `soal_ujian`.`jawaban_list`
+FROM `soal_ujian`
+JOIN `soal` ON `soal`.`id_soal` = `soal_ujian`.`id_soal`
+JOIN `jawaban_soal` ON `jawaban_soal`.`id_soal` = `soal`.`id_soal`
+WHERE `soal_ujian`.`id_test` = \'1\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `soal`.`isi_soal`, `jawaban_soal`.`jawaban_soal`, `soal_ujian`.`jawaban_list`
+FROM `soal_ujian`
+JOIN `soal` ON `soal`.`id_soal` = `soal_ujian`.`id_soal`
+JOIN `jawaban_soal` ON `jawaban_soal`.`id_soal` = `soal`.`id_soal`
+WHERE `soal_ujian`.`id_test` = \'1\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `soal`.`isi_soal`, `jawaban_soal`.`jawaban_soal`, `soal_ujian`.`jawaban_list`
+FROM `soal_ujian`
+JOIN `soal` ON `soal`.`id_soal` = `soal_ujian`.`id_soal`
+JOIN `jawaban_soal` ON `jawaban_soal`.`id_soal` = `soal`.`id_soal`
+WHERE `soal_ujian`.`id_test` = :soal_ujian.id_test:', [...], false)
+ 4 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\User.php(75): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->test('6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b')
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Marc Satrio\\Desktop\\psikotest\\psikotest\\public\\index.php')
+CRITICAL - 2024-09-21 03:44:59 --> [Caused by] mysqli_sql_exception: Unknown column 'soal_ujian.jawaban_list' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `soal`.`isi_soal`, `jawaban_soal`.`jawaban_soal`, `soal_ujian`.`jawaban_list`
+FROM `soal_ujian`
+JOIN `soal` ON `soal`.`id_soal` = `soal_ujian`.`id_soal`
+JOIN `jawaban_soal` ON `jawaban_soal`.`id_soal` = `soal`.`id_soal`
+WHERE `soal_ujian`.`id_test` = \'1\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `soal`.`isi_soal`, `jawaban_soal`.`jawaban_soal`, `soal_ujian`.`jawaban_list`
+FROM `soal_ujian`
+JOIN `soal` ON `soal`.`id_soal` = `soal_ujian`.`id_soal`
+JOIN `jawaban_soal` ON `jawaban_soal`.`id_soal` = `soal`.`id_soal`
+WHERE `soal_ujian`.`id_test` = \'1\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `soal`.`isi_soal`, `jawaban_soal`.`jawaban_soal`, `soal_ujian`.`jawaban_list`
+FROM `soal_ujian`
+JOIN `soal` ON `soal`.`id_soal` = `soal_ujian`.`id_soal`
+JOIN `jawaban_soal` ON `jawaban_soal`.`id_soal` = `soal`.`id_soal`
+WHERE `soal_ujian`.`id_test` = \'1\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `soal`.`isi_soal`, `jawaban_soal`.`jawaban_soal`, `soal_ujian`.`jawaban_list`
+FROM `soal_ujian`
+JOIN `soal` ON `soal`.`id_soal` = `soal_ujian`.`id_soal`
+JOIN `jawaban_soal` ON `jawaban_soal`.`id_soal` = `soal`.`id_soal`
+WHERE `soal_ujian`.`id_test` = :soal_ujian.id_test:', [...], false)
+ 5 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\User.php(75): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->test('6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b')
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Marc Satrio\\Desktop\\psikotest\\psikotest\\public\\index.php')
+INFO - 2024-09-21 03:45:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-09-21 03:45:13 --> ErrorException: Undefined variable $soal_ujian
+[Method: GET, Route: user/test/6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b]
+in APPPATH\Views\user\test.php on line 106.
+ 1 APPPATH\Views\user\test.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $soal_ujian', 'C:\\Users\\Marc Satrio\\Desktop\\psikotest\\psikotest\\app\\Views\\user\\test.php', 106)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\Marc Satrio\\Desktop\\psikotest\\psikotest\\app\\Views\\user\\test.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('user/test', [], true)
+ 5 APPPATH\Controllers\User.php(84): view('user/test', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->test('6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Marc Satrio\\Desktop\\psikotest\\psikotest\\public\\index.php')
+INFO - 2024-09-21 03:45:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-09-21 03:45:50 --> ErrorException: Undefined variable $soal_ujian
+[Method: GET, Route: user/test/6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b]
+in APPPATH\Views\user\test.php on line 152.
+ 1 APPPATH\Views\user\test.php(152): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $soal_ujian', 'C:\\Users\\Marc Satrio\\Desktop\\psikotest\\psikotest\\app\\Views\\user\\test.php', 152)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\Marc Satrio\\Desktop\\psikotest\\psikotest\\app\\Views\\user\\test.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('user/test', [], true)
+ 5 APPPATH\Controllers\User.php(84): view('user/test', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->test('6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Marc Satrio\\Desktop\\psikotest\\psikotest\\public\\index.php')
+INFO - 2024-09-21 03:45:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 03:46:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 03:46:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-09-21 03:46:29 --> ParseError: syntax error, unexpected token "return"
+[Method: GET, Route: user/test/6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b]
+in APPPATH\Controllers\User.php on line 83.
+ 1 VENDORPATH\composer\ClassLoader.php(427): Composer\Autoload\{closure}('C:\\Users\\Marc Satrio\\Desktop\\psikotest\\psikotest\\vendor\\composer/../../app\\Controllers\\User.php')
+ 2 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Controllers\\User')
+ 3 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\User', true)
+ 4 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Marc Satrio\\Desktop\\psikotest\\psikotest\\public\\index.php')
+INFO - 2024-09-21 03:46:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 03:47:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 03:47:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-09-21 03:47:43 --> ErrorException: Undefined variable $soal_ujian
+[Method: GET, Route: user/test/6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b]
+in APPPATH\Views\user\test.php on line 106.
+ 1 APPPATH\Views\user\test.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $soal_ujian', 'C:\\Users\\Marc Satrio\\Desktop\\psikotest\\psikotest\\app\\Views\\user\\test.php', 106)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\Marc Satrio\\Desktop\\psikotest\\psikotest\\app\\Views\\user\\test.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('user/test', [], true)
+ 5 APPPATH\Controllers\User.php(84): view('user/test', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->test('6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Marc Satrio\\Desktop\\psikotest\\psikotest\\public\\index.php')
+INFO - 2024-09-21 03:50:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 03:50:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 03:58:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 03:58:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:00:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:01:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:01:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:02:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:02:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:03:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:05:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:05:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:06:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:06:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:06:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:07:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:08:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:13:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:13:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:13:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:16:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:17:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:24:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:24:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:25:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:25:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:25:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:25:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:25:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:26:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:26:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:26:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:26:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:27:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:27:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:27:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:28:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:30:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:30:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:30:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:30:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:30:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:30:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:31:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:31:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:31:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:31:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:31:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:31:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:31:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:31:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:31:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:31:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:32:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:32:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:32:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:32:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:32:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:32:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:32:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:32:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:32:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:32:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:32:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:33:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-09-21 04:33:15 --> Error connecting to the database: mysqli_sql_exception: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond in C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:187
+Stack trace:
+#0 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(187): mysqli->real_connect('101.255.92.198', 'astagina', 'astagina', 'test', 3306, '', 0)
+#1 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\app\Controllers\Admin.php(149): CodeIgniter\BaseModel->findAll()
+#7 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\CodeIgniter.php(933): App\Controllers\Admin->data_soal()
+#8 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#9 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\rewrite.php(44): require_once('C:\\Users\\Marc S...')
+#14 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond in C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\app\Controllers\Admin.php(149): CodeIgniter\BaseModel->findAll()
+#6 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\CodeIgniter.php(933): App\Controllers\Admin->data_soal()
+#7 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\rewrite.php(44): require_once('C:\\Users\\Marc S...')
+#13 {main}
+CRITICAL - 2024-09-21 04:33:15 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[Method: GET, Route: admin/data_soal]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `soal`
+JOIN `jenis_soal` ON `soal`.`id_jenis_soal` = `jenis_soal`.`id_jenis_soal`', [], false)
+ 3 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\Admin.php(149): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->data_soal()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Marc Satrio\\Desktop\\psikotest\\psikotest\\public\\index.php')
+INFO - 2024-09-21 04:33:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-09-21 04:33:33 --> Error connecting to the database: mysqli_sql_exception: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond in C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:187
+Stack trace:
+#0 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(187): mysqli->real_connect('101.255.92.198', 'astagina', 'astagina', 'test', 3306, '', 0)
+#1 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\app\Controllers\Admin.php(149): CodeIgniter\BaseModel->findAll()
+#7 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\CodeIgniter.php(933): App\Controllers\Admin->data_soal()
+#8 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#9 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\rewrite.php(44): require_once('C:\\Users\\Marc S...')
+#14 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond in C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\app\Controllers\Admin.php(149): CodeIgniter\BaseModel->findAll()
+#6 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\CodeIgniter.php(933): App\Controllers\Admin->data_soal()
+#7 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 C:\Users\Marc Satrio\Desktop\psikotest\psikotest\vendor\codeigniter4\framework\system\rewrite.php(44): require_once('C:\\Users\\Marc S...')
+#13 {main}
+CRITICAL - 2024-09-21 04:33:33 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[Method: GET, Route: admin/data_soal]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `soal`
+JOIN `jenis_soal` ON `soal`.`id_jenis_soal` = `jenis_soal`.`id_jenis_soal`', [], false)
+ 3 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\Admin.php(149): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->data_soal()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Marc Satrio\\Desktop\\psikotest\\psikotest\\public\\index.php')
+INFO - 2024-09-21 04:33:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:33:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:33:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:34:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:34:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:34:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:35:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:35:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:36:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:41:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:42:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:44:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:44:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:44:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:44:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:53:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:53:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:53:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:53:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:53:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:53:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:53:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:53:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:53:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:53:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:53:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:53:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:53:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:53:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:54:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:54:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:54:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:54:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:55:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:55:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:55:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:55:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:55:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:55:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:56:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:56:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:56:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:56:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:56:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:56:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:57:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:57:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:57:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:57:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:57:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:58:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:58:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:59:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 04:59:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 05:02:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 05:02:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 05:07:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 05:07:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 05:09:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 05:09:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 05:09:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 05:09:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 05:09:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 07:09:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-21 07:09:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
