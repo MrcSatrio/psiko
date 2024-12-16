@@ -111,9 +111,9 @@
 
             <!-- Right Panel (Question Numbers) -->
             <div class="col-lg-4 right-panel">
-                <div class="timer-container">
+                <!-- <div class="timer-container">
                     <i class="bi bi-clock"></i> Time Left: <span id="timer">00:00:00</span>
-                </div>
+                </div> -->
                 <div class="question-list">
                     <div class="row g-2">
                         <?php $index = 1; ?>
