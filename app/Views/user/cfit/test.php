@@ -146,26 +146,26 @@
         // Tentukan durasi berdasarkan currentBagian
         let durationInSeconds = 0;
         if (currentBagian === 1) {
-            durationInSeconds = 3 * 60; // 1 menit (60 detik)
+            durationInSeconds = 3 * 60; // 3 menit
         } else if (currentBagian === 2) {
-            durationInSeconds = 4 * 60; // 10 menit (600 detik)
+            durationInSeconds = 4 * 60; // 4 menit
         } else if (currentBagian === 3) {
-            durationInSeconds = 3 * 60; // 10 menit (600 detik)
+            durationInSeconds = 3 * 60; // 3 menit
         } else if (currentBagian === 4) {
-            durationInSeconds = 2.5 * 60; // 10 menit (600 detik)
+            durationInSeconds = 2.5 * 60; // 2.5 menit
         } else {
             console.error("Bagian tidak dikenali");
         }
 
-        // Simpan durasi dalam localStorage jika belum ada
+        // Simpan durasi dalam localStorage per bagian jika belum ada
         function setEndTime() {
-            let storedEndTime = localStorage.getItem("testEndTime");
+            const storedEndTime = localStorage.getItem("testEndTime_bagian" + currentBagian);
 
-            // Jika tidak ada waktu yang disimpan di localStorage, tentukan berdasarkan currentBagian
+            // Jika tidak ada waktu yang disimpan di localStorage untuk bagian ini, tentukan berdasarkan currentBagian
             if (!storedEndTime) {
                 const currentTime = new Date().getTime();
                 const endTime = currentTime + durationInSeconds * 1000; // Simpan dalam milidetik
-                localStorage.setItem("testEndTime", endTime);
+                localStorage.setItem("testEndTime_bagian" + currentBagian, endTime);
                 return endTime;
             }
 
@@ -194,8 +194,7 @@
                 document.getElementById("timer").textContent = `${hours.toString().padStart(2, "0")}:${minutes.toString().padStart(2, "0")}:${seconds.toString().padStart(2, "0")}`;
             } else {
                 document.getElementById("timer").textContent = "00:00:00";
-                localStorage.removeItem("testEndTime");
-
+                localStorage.removeItem("testEndTime_bagian" + currentBagian);
 
                 if (currentBagian === 4) {
                     document.getElementById('submitAnswers').click(); // Memanggil submit function
@@ -207,47 +206,45 @@
                     } else {
                         url = '<?= base_url("user/cfit/save_answer_single") ?>';
                     }
+
+                    // Ambil data form (misalnya data yang perlu disimpan di server)
+                    const formData = new FormData(document.getElementById("testForm"));
+
+                    // Optional: Tampilkan SweetAlert2 untuk memberitahu bahwa waktu habis dan auto-submit
+                    Swal.fire({
+                        icon: "warning",
+                        title: "Time is up!",
+                        text: "The test will be submitted automatically.",
+                        timer: 3000,
+                        timerProgressBar: true,
+                        allowOutsideClick: false,
+                        didClose: () => {
+                            // Gunakan fetch untuk mengirim data form ke server
+                            fetch(url, {
+                                    method: 'POST',
+                                    body: formData
+                                })
+                                .then(response => {
+                                    if (!response.ok) {
+                                        throw new Error('Network response was not ok');
+                                    }
+                                    return response.json();
+                                })
+                                .then(data => {
+                                    console.log(data);
+                                    if (data.status === 'success') {
+                                        // Redirect ke halaman berikutnya setelah sukses
+                                        window.location.href = '<?= base_url('user/cfit/' . hash('sha256', $test['id_test']) . '/' . ($currentBagian + 1)) ?>';
+                                    } else {
+                                        alert('Terjadi kesalahan saat menyimpan data. Silakan coba lagi.');
+                                    }
+                                })
+                                .catch(error => {
+                                    console.error('There was a problem with the fetch operation:', error);
+                                });
+                        },
+                    });
                 }
-
-
-
-                // Ambil data form (misalnya data yang perlu disimpan di server)
-                const formData = new FormData(document.getElementById("testForm"));
-
-                // Optional: Tampilkan SweetAlert2 untuk memberitahu bahwa waktu habis dan auto-submit
-                Swal.fire({
-                    icon: "warning",
-                    title: "Time is up!",
-                    text: "The test will be submitted automatically.",
-                    timer: 3000,
-                    timerProgressBar: true,
-                    allowOutsideClick: false,
-                    didClose: () => {
-                        // Gunakan fetch untuk mengirim data form ke server
-                        fetch(url, {
-                                method: 'POST',
-                                body: formData
-                            })
-                            .then(response => {
-                                if (!response.ok) {
-                                    throw new Error('Network response was not ok');
-                                }
-                                return response.json();
-                            })
-                            .then(data => {
-                                console.log(data);
-                                if (data.status === 'success') {
-                                    // Redirect ke halaman berikutnya setelah sukses
-                                    window.location.href = '<?= base_url('user/cfit/' . hash('sha256', $test['id_test']) . '/' . ($currentBagian + 1)) ?>';
-                                } else {
-                                    alert('Terjadi kesalahan saat menyimpan data. Silakan coba lagi.');
-                                }
-                            })
-                            .catch(error => {
-                                console.error('There was a problem with the fetch operation:', error);
-                            });
-                    },
-                });
             }
         }
 
@@ -281,7 +278,6 @@
             });
 
             function startTest() {
-                localStorage.removeItem("testEndTime");
                 console.log('Ujian dimulai');
             }
         });
